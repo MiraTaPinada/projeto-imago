@@ -3,8 +3,8 @@
 criador: **Guilherme Salgado**
 
 > o seu personagem e um humano no qual uma entidade mistica das aguas se fundiu. E lhe deu uma missao de se tornar o lorde dos elementos e entao agora vc tera que terrotar 
-todos os outros portadores misticos para se tornar o mais forte.
 
+platafo: PC
 um jogo plataformer sidescroller hack n slash 
 
 direcao de arte: graficos de mangas clasicos (preto e branco) e apenas os ataques que usão bençaos elementais teriao cor
