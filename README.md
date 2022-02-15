@@ -12,6 +12,6 @@ direcao de arte: graficos de mangas clasicos (preto e branco) e apenas os ataque
 
 
 composicao dos leveis:
-- tutorial de como funciona as mecanicas novas com a adição de inimigos com uma dificuldade baixa
-- inimigos mais complicados utilizando as mesmas mecanicas porem de formas mais aperfeiçoada
-- um mini bos que utiliza mecanicas diferentes de tudo que foi mostrado anteriormente 
+1. tutorial de como funciona as mecanicas novas com a adição de inimigos com uma dificuldade baixa
+2. inimigos mais complicados utilizando as mesmas mecanicas porem de formas mais aperfeiçoada
+3. um mini bos que utiliza mecanicas diferentes de tudo que foi mostrado anteriormente 
