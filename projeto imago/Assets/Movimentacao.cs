@@ -35,7 +35,7 @@ namespace projeto_imago
             }
 
         }
-        void OnCollisionEnter(Collision other)
+        void OnCollisionEnter2D(Collision2D other)
         {
             Debug.Log("s");
             canJump = true;
