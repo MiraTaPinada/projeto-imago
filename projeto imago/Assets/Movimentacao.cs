@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace projeto_imago
 {
-    public class movimentacao : MonoBehaviour
+    public class Movimentacao : MonoBehaviour
     {
         public float pulo = 6f;
         public float speed = 6f;
@@ -16,7 +16,7 @@ namespace projeto_imago
         {
             MoveWithKeys();
         }
-
+        
         void MoveWithKeys()
         {
             var left = Input.GetKey(KeyCode.A);
@@ -37,7 +37,7 @@ namespace projeto_imago
         }
         void OnCollisionEnter(Collision other)
         {
-            Debug.Log("shgdf");
+            Debug.Log("s");
             canJump = true;
         }
     }
